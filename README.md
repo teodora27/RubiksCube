@@ -1,4 +1,4 @@
-Open the dosc file for more informations
+
 ![image](https://github.com/user-attachments/assets/989489a9-4ad1-4a3e-844c-092b879e4ddc)
 # 🎲 **3D Rubik's Cube Simulator** 🧩
 
@@ -19,5 +19,5 @@ Welcome to the **3D Rubik's Cube Simulator**, a digital version of the classic p
 Can you solve the cube in the shortest time possible? Push your skills to the limit and create unique patterns along the way! 🔄✨
 
 Happy Solving!
-
+Open the dosc file for more informations
 
